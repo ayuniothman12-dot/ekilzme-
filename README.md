@@ -11,7 +11,7 @@
       background-color: #ffe6e6;
       margin: 0;
       padding: 0;
-    }
+    } 
 
     .container {
       margin-top: 50px;
